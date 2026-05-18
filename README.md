@@ -1,6 +1,6 @@
 # Codelijst CSOR Drager
 
-SKOS-codelijst voor **dragers** binnen het Centraal Systeem voor Omgevingsrapportering (CSOR).
+SKOS-codelijst voor **dragers** binnen het Chemische Stoffen en Omgevingsparameters-Register (CSOR).
 
 Een drager beschrijft het medium waarin een kenmerk geobserveerd wordt (bv. omgevingslucht, waterbodem, PM10).
 
