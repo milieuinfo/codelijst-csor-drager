@@ -10,6 +10,8 @@ URI: `https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager`
 
 Namespace CSOR-ontologie: `https://data.omgeving.vlaanderen.be/ns/csor#`
 
+Named graph (Virtuoso): `https://data.omgeving.vlaanderen.be/id/graph/codelijst-csor-drager`
+
 ## Concepten
 
 | ID    | Label                        | Deprecated |
