@@ -3,6 +3,7 @@ PREFIX csor-constraints: <https://data.omgeving.vlaanderen.be/ns/csor-constraint
 PREFIX dcterms:          <http://purl.org/dc/terms/>
 PREFIX iadopt:           <https://w3id.org/iadopt/ont/>
 PREFIX owl:              <http://www.w3.org/2002/07/owl#>
+PREFIX pubChem:          <https://pubchem.ncbi.nlm.nih.gov/rest/rdf/>
 PREFIX qudt:             <http://qudt.org/schema/qudt/>
 PREFIX rdf:              <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs:             <http://www.w3.org/2000/01/rdf-schema#>
@@ -35,7 +36,7 @@ PREFIX xsd:              <http://www.w3.org/2001/XMLSchema#>
         rdf:type           csor:Drager , skos:Concept;
         owl:deprecated     false;
         skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        skos:prefLabel     "Waterbodem"@nl;
+        skos:prefLabel     "vaste deel van de aarde"@nl;
         skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager> .
 
 <https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_10>
@@ -49,7 +50,7 @@ PREFIX xsd:              <http://www.w3.org/2001/XMLSchema#>
         rdf:type           csor:Drager , skos:Concept;
         owl:deprecated     false;
         skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        skos:prefLabel     "PassiveSamplingFilter"@nl;
+        skos:prefLabel     "passiveSamplingFilter"@nl;
         skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager> .
 
 <https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_12>
@@ -70,23 +71,23 @@ PREFIX xsd:              <http://www.w3.org/2001/XMLSchema#>
         rdf:type           csor:Drager , skos:Concept;
         owl:deprecated     false;
         skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        skos:prefLabel     "omgevingslucht"@nl;
+        skos:prefLabel     "lucht"@nl;
         skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager> .
 
 <https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_1>
         rdf:type           csor:Drager , skos:Concept;
-        owl:deprecated     true;
-        skos:definition    "Waterstaal toelichting"@nl;
+        owl:deprecated     false;
+        skos:definition    "Water zoals bijv, drinkwater, afvalwater, oppervlaktewater, grondwater, zeewater,..."@nl;
         skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        skos:prefLabel     "Waterstaal"@nl;
-        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        csor:geldigTot     "2026-03-17"^^xsd:date .
+        skos:prefLabel     "water"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager> .
 
 <https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_3>
         rdf:type           csor:Drager , skos:Concept;
         owl:deprecated     false;
+        skos:definition    "Organismen of delen van organismen die worden geanalyseerd (bijv. vissen of schelpdieren), kan zowel plantaardig als dierlijk materiaal zijn."@nl;
         skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager>;
-        skos:prefLabel     "Biota"@nl;
+        skos:prefLabel     "biota"@nl;
         skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager> .
 
 <https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_11>

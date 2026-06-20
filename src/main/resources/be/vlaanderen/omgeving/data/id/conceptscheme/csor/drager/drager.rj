@@ -7,7 +7,13 @@
      ] ,
     "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
       "type" : "literal" ,
-      "value" : "Biota" ,
+      "value" : "biota" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
+      "type" : "literal" ,
+      "value" : "Organismen of delen van organismen die worden geanalyseerd (bijv. vissen of schelpdieren), kan zowel plantaardig als dierlijk materiaal zijn." ,
       "lang" : "nl"
     }
      ] ,
@@ -41,7 +47,7 @@
      ] ,
     "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
       "type" : "literal" ,
-      "value" : "PassiveSamplingFilter" ,
+      "value" : "passiveSamplingFilter" ,
       "lang" : "nl"
     }
      ] ,
@@ -73,27 +79,21 @@
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ] ,
-    "https://data.omgeving.vlaanderen.be/ns/csor#geldigTot" : [ { 
-      "type" : "literal" ,
-      "value" : "2026-03-17" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#date"
-    }
-     ] ,
     "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
       "type" : "literal" ,
-      "value" : "Waterstaal" ,
+      "value" : "water" ,
       "lang" : "nl"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#definition" : [ { 
       "type" : "literal" ,
-      "value" : "Waterstaal toelichting" ,
+      "value" : "Water zoals bijv, drinkwater, afvalwater, oppervlaktewater, grondwater, zeewater,..." ,
       "lang" : "nl"
     }
      ] ,
     "http://www.w3.org/2002/07/owl#deprecated" : [ { 
       "type" : "literal" ,
-      "value" : "true" ,
+      "value" : "false" ,
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
@@ -121,7 +121,7 @@
      ] ,
     "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
       "type" : "literal" ,
-      "value" : "Waterbodem" ,
+      "value" : "vaste deel van de aarde" ,
       "lang" : "nl"
     }
      ] ,
@@ -328,7 +328,7 @@
      ] ,
     "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
       "type" : "literal" ,
-      "value" : "omgevingslucht" ,
+      "value" : "lucht" ,
       "lang" : "nl"
     }
      ] ,
