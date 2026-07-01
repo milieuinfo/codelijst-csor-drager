@@ -1,4 +1,4 @@
-@Library('Cumulus@1.1-stable') _
+@Library('Cumulus@1.2-stable') _
 pipeline {
     agent {
         kubernetes {
