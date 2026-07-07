@@ -1,152 +1,4 @@
 { 
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_3" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "biota" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
-      "type" : "literal" ,
-      "value" : "Organismen of delen van organismen die worden geanalyseerd (bijv. vissen of schelpdieren), kan zowel plantaardig als dierlijk materiaal zijn." ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_4" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "passiveSamplingFilter" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_1" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "water" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
-      "type" : "literal" ,
-      "value" : "Water zoals bijv, drinkwater, afvalwater, oppervlaktewater, grondwater, zeewater,..." ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_2" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "vaste deel van de aarde" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
   "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager" : { 
     "http://www.w3.org/2004/02/skos/core#hasTopConcept" : [ { 
       "type" : "uri" ,
@@ -171,6 +23,10 @@
     , { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_13"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_14"
     }
     , { 
       "type" : "uri" ,
@@ -218,74 +74,6 @@
      ]
   }
    ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_12" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "PM2.5" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_13" : { 
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "wet-only depositie (prec)" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_7" : { 
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
       "type" : "uri" ,
@@ -304,11 +92,6 @@
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
@@ -316,6 +99,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ]
   }
@@ -338,11 +126,6 @@
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
@@ -350,6 +133,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ]
   }
@@ -372,9 +160,44 @@
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_3" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "biota" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
+      "type" : "literal" ,
+      "value" : "Organismen of delen van organismen die worden geanalyseerd (bijv. vissen of schelpdieren), kan zowel plantaardig als dierlijk materiaal zijn." ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -384,6 +207,221 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_4" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "passiveSamplingFilter" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_1" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "water" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
+      "type" : "literal" ,
+      "value" : "Water zoals bijv, drinkwater, afvalwater, oppervlaktewater, grondwater, zeewater,..." ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_2" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "vaste deel van de aarde" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_12" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "PM2.5" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_13" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "wet-only depositie (prec)" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/drager/DR_14" : { 
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "materiaal" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ]
   }
@@ -406,11 +444,6 @@
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
@@ -418,6 +451,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ]
   }
@@ -440,11 +478,6 @@
       "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#Drager"
@@ -452,6 +485,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/drager"
     }
      ]
   }
