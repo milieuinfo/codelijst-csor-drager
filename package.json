@@ -22,5 +22,8 @@
     "dotenv": "^16.4.5",
     "js-yaml": "^4.1.0",
     "@milieuinfo/maven-metadata-generator-npm": "^0.5.1"
+  },
+  "overrides": {
+    "xlsx": "https://repo.omgeving.vlaanderen.be/artifactory/sheetjs-cdn-remote/xlsx-0.20.1/xlsx-0.20.1.tgz"
   }
 }
