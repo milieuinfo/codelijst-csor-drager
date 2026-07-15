@@ -53,8 +53,8 @@
                 <configuration>
 <!--                    <corepackDownloadRoot>${acd.repository.corepack.dist.url}</corepackDownloadRoot>-->
                     <serverId>repo.omgeving.vlaanderen.be</serverId>
-                    <nodeDownloadRoot>${acd.repository.url}</nodeDownloadRoot>
-                    <npmDownloadRoot>${acd.repository.url}</npmDownloadRoot>
+                    <nodeDownloadRoot>${acd.repository.node.dist.url}</nodeDownloadRoot>
+                    <npmDownloadRoot>${acd.repository.npm.dist.url}</npmDownloadRoot>
                 </configuration>
                 <executions>
                     <execution>
