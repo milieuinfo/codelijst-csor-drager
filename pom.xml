@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
     <artifactId>codelijst-csor-drager</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.2.0</version>
     <name>codelijst-csor-drager</name>
     <description />
     <!--  0.0.1-alpha.1 -->
@@ -17,7 +17,7 @@
         <connection>scm:git:https://github.com/milieuinfo/codelijst-csor-drager.git</connection>
         <developerConnection>scm:git:https://github.com/milieuinfo/codelijst-csor-drager.git</developerConnection>
         <url>https://github.com/milieuinfo/codelijst-csor-drager.git</url>
-        <tag>HEAD</tag>
+        <tag>codelijst-csor-drager-0.2.0</tag>
     </scm>
     <build>
         <plugins>
